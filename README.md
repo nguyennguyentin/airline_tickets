@@ -1,5 +1,4 @@
-# airline_tickets
-# Airline Tickets – Hệ thống đặt vé máy bay trực tuyến
+# airline_tickets – Hệ thống đặt vé máy bay trực tuyến
 
 Website hỗ trợ người dùng tìm kiếm chuyến bay, lựa chọn chỗ ngồi, đặt vé và quản lý thông tin vé máy bay. Hệ thống có các khu vực dành cho khách hàng và nhân viên/quản trị viên, cùng những chức năng hỗ trợ vận hành như quản lý chuyến bay, vé, người dùng và thanh toán.
 
